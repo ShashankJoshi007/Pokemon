@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Pokemon App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+1. Please clone or download the repo to your local machine 
+2. Navigate to application root folder and run command `npm install`
 
 ## Available Scripts
 
